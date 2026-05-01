@@ -1,0 +1,5 @@
+/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles/CppStudio.dir
+/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles/edit_cache.dir
+/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles/rebuild_cache.dir
+/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles/CppStudio_autogen_timestamp_deps.dir
+/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles/CppStudio_autogen.dir
