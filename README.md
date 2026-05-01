@@ -61,7 +61,7 @@ Building the IDE from source is incredibly fast and only takes a few seconds.
 1. Clone the repository:
 ```bash
 git clone https://github.com/tiwut/CPP-Studio.git
-cd CppStudio
+cd CPP-Studio
 ```
 
 2. Create a build directory and configure CMake:
@@ -101,15 +101,15 @@ Cpp Studio uses standard IDE keyboard shortcuts to keep your workflow fast and f
 ## How to Use
 
 ### Compiling a Single File
-1. Click ** Folder** to open a workspace.
+1. Click **Folder** to open a workspace.
 2. Hit `Ctrl + N` to create a new file (e.g., `main.cpp`).
 3. Write your C++ code.
 4. Press `Ctrl + Shift + B` to compile, then `F5` to run. 
 
 ### Compiling a Qt/CMake Project
-1. Click ** Folder** and select the root directory of your project (the folder containing `CMakeLists.txt`).
+1. Click **Folder** and select the root directory of your project (the folder containing `CMakeLists.txt`).
 2. Open any `.cpp` file in the project.
-3. Click ** Compile**. Cpp Studio will automatically generate a `/build` folder, run CMake, and compile your entire project.
+3. Click **Compile**. Cpp Studio will automatically generate a `/build` folder, run CMake, and compile your entire project.
 4. Watch the real-time build logs in the console panel.
 5. Click **▶ Run** to launch your application.
 
