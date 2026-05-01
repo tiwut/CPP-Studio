@@ -4,7 +4,7 @@
 
 Designed to mimic the sleek, modern aesthetic of Visual Studio Code, Cpp Studio provides a seamless C++ development environment with **zero terminal interaction required**. It features a smart build system that automatically detects whether you are working on a single script or a massive CMake project.
 
-![Cpp Studio UI](Screenshot.png) <!-- Replace with a real screenshot of your app later -->
+![Cpp Studio UI](Screenshot.png)
 
 ---
 
