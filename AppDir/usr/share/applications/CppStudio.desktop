@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=CPP Studio
+Comment=A C++ IDE
+Exec=CppStudio
+Icon=CppStudio
+Categories=Development;IDE;
+Terminal=false

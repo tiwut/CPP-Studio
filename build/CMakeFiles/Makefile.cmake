@@ -7,9 +7,6 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/home/tiwut/Documents/Dev/CppStudio/CMakeLists.txt"
-  "CMakeFiles/3.31.6/CMakeCXXCompiler.cmake"
-  "CMakeFiles/3.31.6/CMakeSystem.cmake"
   "/usr/lib/x86_64-linux-gnu/cmake/Qt6/3rdparty/kwin/FindXKB.cmake"
   "/usr/lib/x86_64-linux-gnu/cmake/Qt6/FindWrapAtomic.cmake"
   "/usr/lib/x86_64-linux-gnu/cmake/Qt6/FindWrapOpenGL.cmake"
@@ -217,6 +214,9 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/share/cmake-3.31/Modules/Platform/Linux-Initialize.cmake"
   "/usr/share/cmake-3.31/Modules/Platform/Linux.cmake"
   "/usr/share/cmake-3.31/Modules/Platform/UnixPaths.cmake"
+  "/var/home/tiwut/Documents/Dev/CPP-Studio/CMakeLists.txt"
+  "CMakeFiles/3.31.6/CMakeCXXCompiler.cmake"
+  "CMakeFiles/3.31.6/CMakeSystem.cmake"
   )
 
 # The corresponding makefile is:

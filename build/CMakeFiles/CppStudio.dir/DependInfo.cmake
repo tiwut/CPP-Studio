@@ -9,8 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "" "CppStudio_autogen/timestamp" "custom" "CppStudio_autogen/deps"
-  "/home/tiwut/Documents/Dev/CppStudio/build/CppStudio_autogen/mocs_compilation.cpp" "CMakeFiles/CppStudio.dir/CppStudio_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/CppStudio.dir/CppStudio_autogen/mocs_compilation.cpp.o.d"
-  "/home/tiwut/Documents/Dev/CppStudio/main.cpp" "CMakeFiles/CppStudio.dir/main.cpp.o" "gcc" "CMakeFiles/CppStudio.dir/main.cpp.o.d"
+  "/var/home/tiwut/Documents/Dev/CPP-Studio/build/CppStudio_autogen/mocs_compilation.cpp" "CMakeFiles/CppStudio.dir/CppStudio_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/CppStudio.dir/CppStudio_autogen/mocs_compilation.cpp.o.d"
+  "/var/home/tiwut/Documents/Dev/CPP-Studio/main.cpp" "CMakeFiles/CppStudio.dir/main.cpp.o" "gcc" "CMakeFiles/CppStudio.dir/main.cpp.o.d"
   "" "CppStudio" "gcc" "CMakeFiles/CppStudio.dir/link.d"
   )
 

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/tiwut/Documents/Dev/CppStudio
+CMAKE_SOURCE_DIR = /var/home/tiwut/Documents/Dev/CPP-Studio
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/tiwut/Documents/Dev/CppStudio/build
+CMAKE_BINARY_DIR = /var/home/tiwut/Documents/Dev/CPP-Studio/build
 
 # Utility rule file for CppStudio_autogen_timestamp_deps.
 
@@ -81,6 +81,6 @@ CMakeFiles/CppStudio_autogen_timestamp_deps.dir/clean:
 .PHONY : CMakeFiles/CppStudio_autogen_timestamp_deps.dir/clean
 
 CMakeFiles/CppStudio_autogen_timestamp_deps.dir/depend:
-	cd /home/tiwut/Documents/Dev/CppStudio/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tiwut/Documents/Dev/CppStudio /home/tiwut/Documents/Dev/CppStudio /home/tiwut/Documents/Dev/CppStudio/build /home/tiwut/Documents/Dev/CppStudio/build /home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles/CppStudio_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /var/home/tiwut/Documents/Dev/CPP-Studio/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /var/home/tiwut/Documents/Dev/CPP-Studio /var/home/tiwut/Documents/Dev/CPP-Studio /var/home/tiwut/Documents/Dev/CPP-Studio/build /var/home/tiwut/Documents/Dev/CPP-Studio/build /var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles/CppStudio_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/CppStudio_autogen_timestamp_deps.dir/depend
 

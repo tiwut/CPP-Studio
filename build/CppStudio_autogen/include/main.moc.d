@@ -1,5 +1,5 @@
-/home/tiwut/Documents/Dev/CppStudio/build/CppStudio_autogen/include/main.moc: /home/tiwut/Documents/Dev/CppStudio/main.cpp \
-  /home/tiwut/Documents/Dev/CppStudio/build/CppStudio_autogen/moc_predefs.h \
+/var/home/tiwut/Documents/Dev/CPP-Studio/build/CppStudio_autogen/include/main.moc: /var/home/tiwut/Documents/Dev/CPP-Studio/main.cpp \
+  /var/home/tiwut/Documents/Dev/CPP-Studio/build/CppStudio_autogen/moc_predefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/bitsperlong.h \
   /usr/include/asm-generic/errno-base.h \

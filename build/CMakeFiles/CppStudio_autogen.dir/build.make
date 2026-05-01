@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/tiwut/Documents/Dev/CppStudio
+CMAKE_SOURCE_DIR = /var/home/tiwut/Documents/Dev/CPP-Studio
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/tiwut/Documents/Dev/CppStudio/build
+CMAKE_BINARY_DIR = /var/home/tiwut/Documents/Dev/CPP-Studio/build
 
 # Utility rule file for CppStudio_autogen.
 
@@ -70,9 +70,9 @@ CMakeFiles/CppStudio_autogen: CppStudio_autogen/timestamp
 
 CppStudio_autogen/timestamp: /usr/lib/qt6/libexec/moc
 CppStudio_autogen/timestamp: CMakeFiles/CppStudio_autogen.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target CppStudio"
-	/usr/bin/cmake -E cmake_autogen /home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles/CppStudio_autogen.dir/AutogenInfo.json ""
-	/usr/bin/cmake -E touch /home/tiwut/Documents/Dev/CppStudio/build/CppStudio_autogen/timestamp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC for target CppStudio"
+	/usr/bin/cmake -E cmake_autogen /var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles/CppStudio_autogen.dir/AutogenInfo.json ""
+	/usr/bin/cmake -E touch /var/home/tiwut/Documents/Dev/CPP-Studio/build/CppStudio_autogen/timestamp
 
 CMakeFiles/CppStudio_autogen.dir/codegen:
 .PHONY : CMakeFiles/CppStudio_autogen.dir/codegen
@@ -91,6 +91,6 @@ CMakeFiles/CppStudio_autogen.dir/clean:
 .PHONY : CMakeFiles/CppStudio_autogen.dir/clean
 
 CMakeFiles/CppStudio_autogen.dir/depend:
-	cd /home/tiwut/Documents/Dev/CppStudio/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tiwut/Documents/Dev/CppStudio /home/tiwut/Documents/Dev/CppStudio /home/tiwut/Documents/Dev/CppStudio/build /home/tiwut/Documents/Dev/CppStudio/build /home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles/CppStudio_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /var/home/tiwut/Documents/Dev/CPP-Studio/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /var/home/tiwut/Documents/Dev/CPP-Studio /var/home/tiwut/Documents/Dev/CPP-Studio /var/home/tiwut/Documents/Dev/CPP-Studio/build /var/home/tiwut/Documents/Dev/CPP-Studio/build /var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles/CppStudio_autogen.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/CppStudio_autogen.dir/depend
 

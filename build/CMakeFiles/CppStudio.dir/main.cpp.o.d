@@ -1,5 +1,6 @@
 CMakeFiles/CppStudio.dir/main.cpp.o: \
- /home/tiwut/Documents/Dev/CppStudio/main.cpp /usr/include/stdc-predef.h \
+ /var/home/tiwut/Documents/Dev/CPP-Studio/main.cpp \
+ /usr/include/stdc-predef.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/QApplication \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qapplication.h \
  /usr/include/x86_64-linux-gnu/qt6/QtWidgets/qtwidgetsglobal.h \
@@ -536,5 +537,5 @@ CMakeFiles/CppStudio.dir/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qbasictimer.h \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/QKeySequence \
  /usr/include/x86_64-linux-gnu/qt6/QtGui/qkeysequence.h \
- /home/tiwut/Documents/Dev/CppStudio/build/CppStudio_autogen/include/main.moc \
+ /var/home/tiwut/Documents/Dev/CPP-Studio/build/CppStudio_autogen/include/main.moc \
  /usr/include/x86_64-linux-gnu/qt6/QtCore/qtmochelpers.h

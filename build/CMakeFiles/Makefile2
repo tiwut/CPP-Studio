@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/tiwut/Documents/Dev/CppStudio
+CMAKE_SOURCE_DIR = /var/home/tiwut/Documents/Dev/CPP-Studio
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/tiwut/Documents/Dev/CppStudio/build
+CMAKE_BINARY_DIR = /var/home/tiwut/Documents/Dev/CPP-Studio/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -88,14 +88,14 @@ CMakeFiles/CppStudio.dir/all: CMakeFiles/CppStudio_autogen_timestamp_deps.dir/al
 CMakeFiles/CppStudio.dir/all: CMakeFiles/CppStudio_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppStudio.dir/build.make CMakeFiles/CppStudio.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppStudio.dir/build.make CMakeFiles/CppStudio.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles --progress-num=1,2,3,4 "Built target CppStudio"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles --progress-num=1,2,3,4 "Built target CppStudio"
 .PHONY : CMakeFiles/CppStudio.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CppStudio.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/CppStudio.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles 0
 .PHONY : CMakeFiles/CppStudio.dir/rule
 
 # Convenience name for target.
@@ -105,7 +105,7 @@ CppStudio: CMakeFiles/CppStudio.dir/rule
 # codegen rule for target.
 CMakeFiles/CppStudio.dir/codegen: CMakeFiles/CppStudio_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppStudio.dir/build.make CMakeFiles/CppStudio.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles --progress-num=1,2,3,4 "Finished codegen for target CppStudio"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles --progress-num=1,2,3,4 "Finished codegen for target CppStudio"
 .PHONY : CMakeFiles/CppStudio.dir/codegen
 
 # clean rule for target.
@@ -120,14 +120,14 @@ CMakeFiles/CppStudio.dir/clean:
 CMakeFiles/CppStudio_autogen_timestamp_deps.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppStudio_autogen_timestamp_deps.dir/build.make CMakeFiles/CppStudio_autogen_timestamp_deps.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppStudio_autogen_timestamp_deps.dir/build.make CMakeFiles/CppStudio_autogen_timestamp_deps.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles --progress-num= "Built target CppStudio_autogen_timestamp_deps"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles --progress-num= "Built target CppStudio_autogen_timestamp_deps"
 .PHONY : CMakeFiles/CppStudio_autogen_timestamp_deps.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CppStudio_autogen_timestamp_deps.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/CppStudio_autogen_timestamp_deps.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles 0
 .PHONY : CMakeFiles/CppStudio_autogen_timestamp_deps.dir/rule
 
 # Convenience name for target.
@@ -137,7 +137,7 @@ CppStudio_autogen_timestamp_deps: CMakeFiles/CppStudio_autogen_timestamp_deps.di
 # codegen rule for target.
 CMakeFiles/CppStudio_autogen_timestamp_deps.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppStudio_autogen_timestamp_deps.dir/build.make CMakeFiles/CppStudio_autogen_timestamp_deps.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles --progress-num= "Finished codegen for target CppStudio_autogen_timestamp_deps"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles --progress-num= "Finished codegen for target CppStudio_autogen_timestamp_deps"
 .PHONY : CMakeFiles/CppStudio_autogen_timestamp_deps.dir/codegen
 
 # clean rule for target.
@@ -152,14 +152,14 @@ CMakeFiles/CppStudio_autogen_timestamp_deps.dir/clean:
 CMakeFiles/CppStudio_autogen.dir/all: CMakeFiles/CppStudio_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppStudio_autogen.dir/build.make CMakeFiles/CppStudio_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppStudio_autogen.dir/build.make CMakeFiles/CppStudio_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles --progress-num=5 "Built target CppStudio_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles --progress-num=5 "Built target CppStudio_autogen"
 .PHONY : CMakeFiles/CppStudio_autogen.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CppStudio_autogen.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/CppStudio_autogen.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles 0
 .PHONY : CMakeFiles/CppStudio_autogen.dir/rule
 
 # Convenience name for target.
@@ -169,7 +169,7 @@ CppStudio_autogen: CMakeFiles/CppStudio_autogen.dir/rule
 # codegen rule for target.
 CMakeFiles/CppStudio_autogen.dir/codegen: CMakeFiles/CppStudio_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppStudio_autogen.dir/build.make CMakeFiles/CppStudio_autogen.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles --progress-num=5 "Finished codegen for target CppStudio_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles --progress-num=5 "Finished codegen for target CppStudio_autogen"
 .PHONY : CMakeFiles/CppStudio_autogen.dir/codegen
 
 # clean rule for target.

@@ -1,5 +1,9 @@
-/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles/CppStudio.dir
-/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles/edit_cache.dir
-/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles/rebuild_cache.dir
-/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles/CppStudio_autogen_timestamp_deps.dir
-/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles/CppStudio_autogen.dir
+/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles/CppStudio.dir
+/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles/edit_cache.dir
+/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles/rebuild_cache.dir
+/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles/list_install_components.dir
+/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles/install.dir
+/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles/install/local.dir
+/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles/install/strip.dir
+/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles/CppStudio_autogen_timestamp_deps.dir
+/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles/CppStudio_autogen.dir

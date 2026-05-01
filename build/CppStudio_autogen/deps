@@ -1,9 +1,4 @@
 CppStudio_autogen/timestamp: \
-	/home/tiwut/Documents/Dev/CppStudio/CMakeLists.txt \
-	/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles/3.31.6/CMakeCXXCompiler.cmake \
-	/home/tiwut/Documents/Dev/CppStudio/build/CMakeFiles/3.31.6/CMakeSystem.cmake \
-	/home/tiwut/Documents/Dev/CppStudio/build/CppStudio_autogen/moc_predefs.h \
-	/home/tiwut/Documents/Dev/CppStudio/main.cpp \
 	/usr/include/alloca.h \
 	/usr/include/asm-generic/bitsperlong.h \
 	/usr/include/asm-generic/errno-base.h \
@@ -751,4 +746,9 @@ CppStudio_autogen/timestamp: \
 	/usr/share/cmake-3.31/Modules/Platform/Linux-Initialize.cmake \
 	/usr/share/cmake-3.31/Modules/Platform/Linux.cmake \
 	/usr/share/cmake-3.31/Modules/Platform/UnixPaths.cmake \
+	/var/home/tiwut/Documents/Dev/CPP-Studio/CMakeLists.txt \
+	/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles/3.31.6/CMakeCXXCompiler.cmake \
+	/var/home/tiwut/Documents/Dev/CPP-Studio/build/CMakeFiles/3.31.6/CMakeSystem.cmake \
+	/var/home/tiwut/Documents/Dev/CPP-Studio/build/CppStudio_autogen/moc_predefs.h \
+	/var/home/tiwut/Documents/Dev/CPP-Studio/main.cpp \
 	/usr/bin/cmake
