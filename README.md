@@ -32,7 +32,7 @@ Designed to mimic the sleek, modern aesthetic of Visual Studio Code, Cpp Studio 
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 To build and run Cpp Studio, you will need the GCC compiler, CMake, and the Qt6 framework.
 
@@ -60,7 +60,7 @@ Building the IDE from source is incredibly fast and only takes a few seconds.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/CppStudio.git
+git clone https://github.com/tiwut/CPP-Studio.git
 cd CppStudio
 ```
 
