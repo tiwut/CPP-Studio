@@ -1,4 +1,4 @@
-# Cpp Studio for Linux or Unix
+# Cpp Studio for Linux or Unix based
 
 **Cpp Studio** is a lightweight, native C++ IDE for Linux built entirely with **Qt6** and **C++**. 
 
